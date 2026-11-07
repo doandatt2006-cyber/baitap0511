@@ -22,3 +22,5 @@ C:\Users\AD\source\repos\baitap0511\baitap0511\obj\Debug\net10.0-windows\refint\
 C:\Users\AD\source\repos\baitap0511\baitap0511\obj\Debug\net10.0-windows\baitap0511.pdb
 C:\Users\AD\source\repos\baitap0511\baitap0511\obj\Debug\net10.0-windows\baitap0511.genruntimeconfig.cache
 C:\Users\AD\source\repos\baitap0511\baitap0511\obj\Debug\net10.0-windows\ref\baitap0511.dll
+C:\Users\AD\source\repos\baitap0511\baitap0511\obj\Debug\net10.0-windows\baitap0511.frmNhanSu.resources
+C:\Users\AD\source\repos\baitap0511\baitap0511\obj\Debug\net10.0-windows\baitap0511.sourcelink.json

@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\AD\\source\\repos\\baitap0511\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\frmnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\frmnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\bus\\nhanvienbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\dal\\nhanviendal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\dto\\nhanviendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\frmnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\frmnhansu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\frmnhansu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|c:\\users\\ad\\source\\repos\\baitap0511\\baitap0511\\dto\\phongbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A2718B-C7D5-D665-907B-0EE8491AA464}|baitap0511\\baitap0511.csproj|solutionrelative:baitap0511\\dto\\phongbandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46AAC91D-5AAE-40E7-8EAB-B57ADAF7595B}|baitap0511\\baitap0511.csproj|C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -34,11 +66,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVienBUS.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\BUS\\NhanVienBUS.cs",
+              "RelativeDocumentMoniker": "baitap0511\\BUS\\NhanVienBUS.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\BUS\\NhanVienBUS.cs",
+              "RelativeToolTip": "baitap0511\\BUS\\NhanVienBUS.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:12:18.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmNhanSu.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmNhanSu.cs",
+              "RelativeDocumentMoniker": "baitap0511\\frmNhanSu.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmNhanSu.cs",
+              "RelativeToolTip": "baitap0511\\frmNhanSu.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAkwNAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:31:06.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienDAL.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DAL\\NhanVienDAL.cs",
+              "RelativeDocumentMoniker": "baitap0511\\DAL\\NhanVienDAL.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DAL\\NhanVienDAL.cs",
+              "RelativeToolTip": "baitap0511\\DAL\\NhanVienDAL.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAkwNEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:12:58.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DTO\\NhanVienDTO.cs",
+              "RelativeDocumentMoniker": "baitap0511\\DTO\\NhanVienDTO.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DTO\\NhanVienDTO.cs",
+              "RelativeToolTip": "baitap0511\\DTO\\NhanVienDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:13:22.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmNhanSu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmNhanSu.Designer.cs",
+              "RelativeDocumentMoniker": "baitap0511\\frmNhanSu.Designer.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmNhanSu.Designer.cs",
+              "RelativeToolTip": "baitap0511\\frmNhanSu.Designer.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAYwGcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:30:20.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmNhanSu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmNhanSu.cs",
+              "RelativeDocumentMoniker": "baitap0511\\frmNhanSu.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\frmNhanSu.cs [Design]",
+              "RelativeToolTip": "baitap0511\\frmNhanSu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:26:49.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\Program.cs",
+              "RelativeDocumentMoniker": "baitap0511\\Program.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\Program.cs",
+              "RelativeToolTip": "baitap0511\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:31:34.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\Form1.cs",
               "RelativeDocumentMoniker": "baitap0511\\Form1.cs",
@@ -50,7 +170,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "PhongBanDTO.cs",
+              "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DTO\\PhongBanDTO.cs",
+              "RelativeDocumentMoniker": "baitap0511\\DTO\\PhongBanDTO.cs",
+              "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DTO\\PhongBanDTO.cs",
+              "RelativeToolTip": "baitap0511\\DTO\\PhongBanDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T02:13:43.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SanPhamBUS.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\BUS\\SanPhamBUS.cs",
               "RelativeDocumentMoniker": "baitap0511\\BUS\\SanPhamBUS.cs",
@@ -58,12 +190,11 @@
               "RelativeToolTip": "baitap0511\\BUS\\SanPhamBUS.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T06:24:43.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T06:24:43.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\Form1.cs",
               "RelativeDocumentMoniker": "baitap0511\\Form1.cs",
@@ -71,12 +202,11 @@
               "RelativeToolTip": "baitap0511\\Form1.cs",
               "ViewState": "AgIAAJ4AAAAAAAAAAAAIwLEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T07:35:25.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T07:35:25.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "SanPhamDAL.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DAL\\SanPhamDAL.cs",
               "RelativeDocumentMoniker": "baitap0511\\DAL\\SanPhamDAL.cs",
@@ -84,12 +214,11 @@
               "RelativeToolTip": "baitap0511\\DAL\\SanPhamDAL.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwD0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-05T06:24:26.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-05T06:24:26.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\Form1.cs",
               "RelativeDocumentMoniker": "baitap0511\\Form1.cs",
@@ -100,13 +229,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "SanPhamDTO.cs",
               "DocumentMoniker": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DTO\\SanPhamDTO.cs",
               "RelativeDocumentMoniker": "baitap0511\\DTO\\SanPhamDTO.cs",
               "ToolTip": "C:\\Users\\AD\\source\\repos\\baitap0511\\baitap0511\\DTO\\SanPhamDTO.cs",
               "RelativeToolTip": "baitap0511\\DTO\\SanPhamDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-05T06:24:02.799Z"
             }
